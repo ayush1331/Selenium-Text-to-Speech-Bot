@@ -10,7 +10,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/selenium-tts-bot.git
+git clone https://github.com/ayush1331/Selenium-Text-to-Speech-Bot.git
 cd selenium-tts-bot
 Install Dependencies:
 Ensure you have Python installed. Then, install the required packages:
